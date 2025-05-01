@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Create output directory
+      - name: Ensure output directory exists
         run: mkdir -p dist
 
       - name: Generate github-contribution-grid-snake.svg
