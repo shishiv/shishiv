@@ -14,6 +14,6 @@ Sou um desenvolvedor de software apaixonado por projetos de código aberto e tec
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/myke-matos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mykematos/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shishiv)
 
