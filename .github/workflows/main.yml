@@ -1,14 +1,9 @@
 name: Generate Animation Snake Cron
 
 on:
-  # Run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" # Adjusted for clarity as "0 */24 * * *" is unconventional
-  
-  # Allows manual triggering of the workflow
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
-  # Trigger on every push to the master branch
   push:
     branches:
       - master
@@ -19,13 +14,11 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # Ensure output directory exists
       - name: Create output directory
         run: mkdir -p dist
 
-      # Generate a snake game animation from the user's contribution graph
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -34,13 +27,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Validate that the output files are generated
+      - name: Debug Output Directory
+        run: ls -la dist
+
       - name: Validate generated files
         run: |
           test -f dist/github-contribution-grid-snake.svg || echo "github-contribution-grid-snake.svg not generated" && exit 1
           test -f dist/github-contribution-grid-snake-dark.svg || echo "github-contribution-grid-snake-dark.svg not generated" && exit 1
 
-      # Push the generated files to the target branch
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
