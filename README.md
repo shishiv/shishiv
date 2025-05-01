@@ -33,14 +33,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,figma,git,github,vscode,linux&perline=15" />
 </p>
-
----
-
-### 📈 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishiv&show_icons=true&theme=radical" />
-</p>
-
-
-
