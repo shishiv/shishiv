@@ -1,19 +1,46 @@
-### Olá, eu sou o Myke! 👋
+<h1 align="center">Olá! Eu sou o Myke 👋</h1>
 
-Sou um desenvolvedor de software apaixonado por projetos de código aberto e tecnologias inovadoras. Adoro explorar novas linguagens de programação, frameworks e ferramentas para criar soluções escaláveis e eficientes. Atualmente, estou me aprofundando nas áreas de cibersegurança, arquitetura e desenvolvimento de software.
+<p align="center">
+  💻 Desenvolvedor de software | 🔐 Estudante de cibersegurança 
+</p>
 
-- 🌱 Atualmente, estou aprendendo na prática JavaScript, Node, React, TypeScript e Next.js no projeto da [Scapola](https://github.com/LipeLino/SCAPOLA), onde sou um membro do time de desenvolvimento junto à Avance - Consultoria Júnior, empresa júnior da UEMG - Frutal.
-- 🎓 Estou cursando o terceiro semestre de graduação em Sistemas de Informação na UEMG.
-- 🏆 Recentemente, fui ganhador do Fator S, um hackathon da SEBRAE-MG, contemplado com uma oportunidade de incubação do projeto.
-- 💡 Gosto de trabalhar em projetos relacionados ao desenvolvimento web, cibersegurança.
-- 📫 Como me encontrar: [myke.matos@gmail.com](mailto:myke.matos@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mykematos/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/shishiv">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:myke.matos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-### Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub do Myke](https://github-readme-stats.vercel.app/api?username=shishiv&show_icons=true&theme=radical)
+### 🚀 Sobre mim
 
-### Conecte-se comigo
+- Finalizei o projeto [Scapola](https://scapolacomunica.com) como parte do time da [Avance - Consultoria Júnior](https://www.instagram.com/avancejr/) – UEMG Frutal.
+- Agora, estou liderando o desenvolvimento do novo site institucional da [Avance - Consultoria Júnior](https://www.instagram.com/avancejr/).
+- Estudante de **Sistemas de Informação** (3º semestre) na **UEMG**.
+- Vencedor do hackathon **Fator S** promovido pelo SEBRAE-MG.
+- Explorando tecnologias como: `JavaScript`, `TypeScript`, `Node.js`, `React`, `Next.js` e conceitos de `cibersegurança`.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mykematos/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shishiv)
+---
+
+### 🧠 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,figma,git,github,vscode,linux&perline=15" />
+</p>
+
+---
+
+### 📈 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shishiv&show_icons=true&theme=radical" />
+</p>
+
+
 
