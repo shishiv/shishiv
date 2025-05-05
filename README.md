@@ -20,7 +20,7 @@
 
 ### 🚀 Sobre mim
 
-- Finalizei o projeto [Scapola](https://scapolacomunica.com) como parte do time da [Avance - Consultoria Júnior](https://www.instagram.com/avancejr/) – UEMG Frutal.
+- Finalizei o projeto [Scapola Comunica](https://scapolacomunica.com) como parte do time da [Avance - Consultoria Júnior](https://www.instagram.com/avancejr/) – UEMG Frutal.
 - Agora, estou liderando o desenvolvimento do novo site institucional da [Avance - Consultoria Júnior](https://www.instagram.com/avancejr/).
 - Estudante de **Sistemas de Informação** (3º semestre) na **UEMG**.
 - Vencedor do hackathon **Fator S** promovido pelo SEBRAE-MG.
