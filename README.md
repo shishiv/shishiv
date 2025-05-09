@@ -41,7 +41,7 @@ Estou em constante aprendizado — evoluindo a cada projeto, linha de código e 
 ### 🧠 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,n8n,git,github,vscode,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,git,github,vscode,linux&perline=10" />
 </p>
 
 ---
