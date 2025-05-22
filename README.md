@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Myke 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web Júnior | 🔐 Estudante de Sistemas de Informação
+  💻 Desenvolvedor Web | 🔐 Estudante de Sistemas de Informação
 </p>
 
 <p align="center">
