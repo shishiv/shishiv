@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o Myke 👋</h1>
+<h1 align="center">Hey there! I'm Myke 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web | 🔐 Estudante de Sistemas de Informação
+  💻 Fullstack Developer | 🔐 Information Systems Student
 </p>
 
 <p align="center">
@@ -18,27 +18,56 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Sou o Myke, estudante de Sistemas de Informação na UEMG, desenvolvedor web com olhar curioso por automação, integração de sistemas e impacto social com tecnologia.
+I'm Myke — an Information Systems student from Brazil and a passionate web developer with a curious eye for **automation, system integration, and using technology to create social impact**.
 
-Minha jornada começou com o desejo de usar o código como ferramenta de transformação — tanto pessoal quanto coletiva. Desde então, venho me aprofundando no ecossistema JavaScript (React, Next.js e Node.js) e explorando tecnologias que me permitem **criar soluções inteligentes com agilidade**, como **n8n, Node-RED e Supabase**.
+My journey started with a deep desire to turn code into a tool for both personal and collective transformation. Since then, I’ve been diving deep into the JavaScript ecosystem — especially **React, Next.js, and Node.js** — and exploring tools that help me **build smart solutions fast**, such as **n8n, Node-RED, and Supabase**.
 
-Tenho orgulho de ter finalizado o projeto **[Scapola Comunica](https://scapolacomunica.com)** e de hoje liderar o time responsável pelo novo site institucional da **[Avance - Consultoria Júnior](https://www.instagram.com/avancejr/)**. Ambos os projetos me ensinaram muito sobre trabalho em equipe, liderança técnica e comunicação em ambientes reais de entrega.
+I take pride in having built the full solution for **[Scapola Comunica](https://scapolacomunica.com)** and currently leading the technical team behind the new institutional website of **[Avance - Consultoria Júnior](https://www.instagram.com/avancejr/)**. These projects have taught me valuable lessons about teamwork, technical leadership, and delivering in real-world environments.
 
-Fui também vencedor do **Hackathon Fator S** promovido pelo SEBRAE-MG, com um projeto voltado à empregabilidade e automação de processos — o que reforçou meu desejo de construir ferramentas que resolvam problemas reais.
+I also won the **Fator S Hackathon** (SEBRAE-MG), where my team created a solution focused on employability and recruitment automation — confirming my drive to build tech that solves meaningful problems.
 
-Além do código, me interesso por:
-- **Cibersegurança** como base de confiança digital
-- **Interface e experiência do usuário**
-- **Modelagem de processos e produtividade com ferramentas low-code**
+Aside from coding, I’m also interested in:
+- **Cybersecurity** as a foundation for digital trust  
+- **User Interface and Experience**  
+- **Process modeling and productivity using low-code tools**
 
-Acredito que tecnologia bem usada aproxima pessoas, simplifica a vida e abre caminhos.  
-Estou em constante aprendizado — evoluindo a cada projeto, linha de código e colaboração.
+I believe technology, when well applied, brings people closer, simplifies life, and creates new opportunities.  
+I'm always learning — improving with every project, line of code, and collaboration.
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
+### 🌟 Featured Projects
+
+#### 🔧 Scapola Comunica — Web Platform for a PR Agency  
+[www.scapolacomunica.com](https://www.scapolacomunica.com)
+
+I led the development of a content management platform tailored to the dynamic needs of a creative agency.  
+The challenge was to build a tool that streamlined the publishing process while maintaining security, usability, and scalability.
+
+> 💡 **The solution:** A custom admin dashboard allowing the team to manage blog posts, partner brands, and secure media uploads — all in real time.
+
+**Technologies:** Next.js, Supabase (PostgreSQL, Auth, Storage), Tailwind CSS, NextAuth.js, Docker  
+**Key Features:** Rich text editor, secure file uploads, real-time notifications, role-based access control  
+**Team Project** — I served as the technical lead.
+
+---
+
+#### 🤖 AvanceBot — WhatsApp Chatbot for University Engagement  
+[www.avancejr.com.br](https://www.avancejr.com.br)
+
+To help attract new students to our university's junior enterprise, I created a smart chatbot that automates first contact and presents what the organization has to offer.
+
+> 🎯 **The goal:** Make the recruitment process more efficient and engaging for students unfamiliar with the movement.
+
+> 🤖 **The result:** A WhatsApp bot that guides users through sectors, encourages participation, and serves as a scalable entry point for new members.
+
+**Technologies:** Node.js, WhatsApp API, Supabase, n8n  
+**Key Features:** Automated messaging flow, sector presentation, interest collection, CRM-ready data structure  
+**Solo Project** — Designed and built from scratch.
+
+### 🧠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,git,github,vscode,linux&perline=10" />
@@ -46,5 +75,4 @@ Estou em constante aprendizado — evoluindo a cada projeto, linha de código e 
 
 ---
 
-> Explorando aplicações com automação usando **n8n**, **Node-RED**.  
-> Também estudo fundamentos de cibersegurança e integração de sistemas low-code com ferramentas modernas.
+> Currently exploring automation with **n8n**, **Node-RED**, and studying cybersecurity fundamentals and modern low-code system integrations.
