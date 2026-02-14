@@ -1,5 +1,6 @@
 # Hey 👋
 Praazer, sou o Myke!
+  
 **Full-Stack Developer** | TypeScript • React • Next.js • Python • Node.js  
 Fundador [@TriânguloTEC](https://triangulotec.com.br) • Estudante SI @ UEMG Frutal  
 Buscando **vagas remotas** como desenvolvedor
