@@ -24,7 +24,7 @@ Founder of **[TrianguloTEC](https://triangulotec.com.br)** — a dev studio that
 
 ---
 
-![Myke's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishiv&show_icons=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=777777&hide_title=true&hide_rank=true)
+![Myke's GitHub stats](https://github-readme-stats-myke-matos-projects.vercel.app/api?username=shishiv&show_icons=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=777777&hide_title=true&hide_rank=true)
 
 ---
 
