@@ -13,7 +13,7 @@ hey, i'm myke 👋
 
 i'm a full-stack dev from minas gerais, brazil. i build software that tackles real problems for small and medium businesses — the ones big tech ignores.
 
-i founded **[triangulotec](https://triangulotec.com.br)**, a dev shop focused on automating tedious work so teams can focus on what matters. our philosophy? tech that helps people, not replaces them.
+i founded **[triangulotec](https://triangulotec.com.br)**, a dev agency focused on automating tedious work so teams can focus on what matters. our philosophy? tech that helps people, not replaces them.
 
 right now, i'm deep into automation with ai — chatbots, internal tools, and integrations that save hours of repetitive work. triangulotec took 1st place in the fator s (sebrae), and i'm finishing my information systems degree at uemg.
 
