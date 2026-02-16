@@ -1,33 +1,50 @@
 Hey, I'm Myke 👋
 
-Full-stack dev building tools for Brazilian businesses.
+I'm a full-stack dev from Minas Gerais, Brazil. I build software to solve real problems for small and mid-size businesses — the companies big tech overlooks.
 
-Founder of **[TrianguloTEC](https://triangulotec.com.br)** — a dev studio that focuses on practical software that actually ships.
+I founded **[TrianguloTEC](https://triangulotec.com.br)**, a dev studio where we automate the boring stuff. Teams can focus on what matters. Our philosophy: tech should help people, not replace 'em.
 
----
+Right now, I'm deep into AI-powered automation — chatbots, internal tools, and integrations that save hours on repetitive tasks. TrianguloTEC won 1st place at Fator S (SEBRAE), and I'm finishing my Information Systems degree at UEMG.
 
-#### What I work with
-
-`TypeScript` `React` `Next.js` `Node.js` `NestJS` `PostgreSQL` `Drizzle` `Docker` `Redis` `TailwindCSS`
+I'm fluent in TypeScript (the programming language and the spoken one — plus Portuguese and some Spanish).
 
 ---
 
-#### Featured projects
+#### What I'm building
 
-| Project | What it does |
-|---------|-------------|
-| [**RHBot**](https://github.com/shishiv/rhbot) | WhatsApp HR assistant for mid-size companies. NestJS + Meta Cloud API + AI |
-| [**Gastei**](https://github.com/shishiv/gastei) | Personal finance tracker for couples. "Gastei R$50 no mercado" → logged via AI |
-| [**Tijolar**](https://github.com/shishiv/tijolar) | Institutional site + admin panel for a construction materials store |
-| [**Coxixo**](https://github.com/shishiv/coxixo) | Voice-to-clipboard transcription for Windows. Push-to-talk + Whisper |
-| [**Inclusao Digital**](https://github.com/shishiv/inclusao-digital-uemg) | Accessible ed-tech portal for adults 60+. UEMG research project |
+**[RHBot](https://github.com/shishiv/rhbot)** — A WhatsApp HR assistant for Brazilian companies (100-500 employees). Workers ask things like "when's payday?" or "how many vacation days do I have?" and get instant answers instead of waiting 3 days. NestJS, Meta Cloud API, AI orchestration.
 
----
+**[Gastei](https://github.com/shishiv/gastei)** — Personal finance tracker for couples. Text "gastei R$50 no mercado" on WhatsApp, and it logs automatically. Because nobody wants a spreadsheet at the grocery store.
 
-![Myke's GitHub stats](https://github-readme-stats-myke-matos-projects.vercel.app/api?username=shishiv&show_icons=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=777777&hide_title=true&hide_rank=true)
+**[Tijolar](https://github.com/shishiv/tijolar)** — Full website + admin panel for a construction materials store. Real client, real production. Next.js + Tailwind.
+
+**[Coxixo](https://github.com/shishiv/coxixo)** — Voice-to-clipboard transcription for Windows. Hold a key, speak, release, paste. Built with C# and Azure Whisper 'cause I was tired of typing long messages.
+
+**[Inclusao Digital UEMG](https://github.com/shishiv/inclusao-digital-uemg)** — An accessible web portal teaching adults 60+ how to use tech. It's a university research project that actually shipped and got used.
 
 ---
 
-I'm currently looking for remote opportunities as a full-stack developer (React / Next.js / TypeScript / Node.js).
+#### Stack
+
+**Day-to-day:** TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Drizzle, TailwindCSS
+
+**Also comfortable with:** Python, C#/.NET, Docker, Redis, Linux, Supabase, Vercel
+
+**Currently exploring:** AI agent orchestration (Claude SDK, multi-model pipelines), WhatsApp Cloud API, pgvector
+
+---
+
+#### A bit more
+
+- 🏆 1st place Fator S (SEBRAE) — startup competition at SCTI UEMG 2024
+- 🎓 Information Systems @ UEMG Frutal (graduating 2028)
+- 🔬 Former FAPEMIG research fellow
+- 💼 Former Director of Information Systems @ Avance Consulting Jr.
+
+I believe in "slow is fast" — taking time to build things right instead of rushing out broken code. I write code in English, think in Portuguese, and debug in whatever language the error message is in.
+
+---
+
+I'm looking for remote full-stack developer work. If you're building something cool with React, Next.js, TypeScript, or Node.js — let's talk.
 
 📧 myke.matos@gmail.com · [LinkedIn](https://linkedin.com/in/myke-matos) · [TrianguloTEC](https://triangulotec.com.br)
