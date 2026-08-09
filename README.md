@@ -33,6 +33,8 @@ fluent in typescript (the programming language *and* the spoken one) — plus po
 
 **[tec-wa-gateway](https://github.com/shishiv/tec-wa-gateway)** — our own whatsmeow gateway: persistent connection, live whatsapp events. replaces stale polling.
 
+**[infra-examples](https://github.com/shishiv/infra-examples)** — real infrastructure I keep in production: one folder per example, with callgraphs, decisions and gotchas.
+
 ---
 
 #### stack
@@ -90,6 +92,8 @@ falo typescript fluente (a linguagem de programação e a falada — além de po
 **[inclusao digital uemg](https://github.com/shishiv/inclusao-digital-uemg)** — portal web acessível ensinando adultos 60+ a usar tecnologia. projeto de pesquisa que saiu do papel e foi usado de verdade.
 
 **[tec-wa-gateway](https://github.com/shishiv/tec-wa-gateway)** — gateway whatsmeow próprio: conexão persistente, eventos ao vivo do whatsapp. substitui o polling velho.
+
+**[infra-examples](https://github.com/shishiv/infra-examples)** — infraestrutura real que eu mantenho em produção: uma pasta por exemplo, com callgraphs, decisões e gotchas.
 
 ---
 
