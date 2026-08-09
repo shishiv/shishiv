@@ -11,27 +11,27 @@
 
 hey, i'm myke 👋
 
-i'm a full-stack dev from minas gerais, brazil. i build software that tackles real problems for small and medium businesses — the ones big tech ignores.
+i build software and run [triangulotec](https://triangulotec.com.br), a small dev shop in minas gerais, brazil. we automate the boring parts so teams can do the work they actually signed up for.
 
-i founded **[triangulotec](https://triangulotec.com.br)**, a dev agency focused on automating tedious work so teams can focus on what matters. our philosophy? tech that helps people, not replaces them.
+no fancy titles here. just things built and running.
 
-right now, i'm deep into automation with ai — chatbots, internal tools, and integrations that save hours of repetitive work. triangulotec took 1st place in the fator s (sebrae), and i'm finishing my information systems degree at uemg.
+right now that's whatsapp automation, internal tools, and open-source projects people actually use. finishing my information systems degree at uemg.
 
-i'm fluent in typescript (both the programming language *and* the spoken one) — plus portuguese and a bit of spanish.
+fluent in typescript (the programming language *and* the spoken one) — plus portuguese and a bit of spanish.
 
 ---
 
 #### what i'm building
 
-**[rhbot](https://github.com/shishiv/rhbot)** — a whatsapp hr assistant for brazilian companies (100-500 employees). an employee asks, "when do i get paid?" or "how many vacation days do i have?" and gets an instant answer, instead of waiting 3 days for hr. built with nestjs, meta cloud api, and ai orchestration.
+**[EDUCA](https://github.com/shishiv/EDUCA)** — open-source school management for brazilian small towns. 100% MIT, cloud free = 1 school, whatsapp byo. pilot with ~900 students.
 
-**[gastei](https://github.com/shishiv/gastei)** — personal finance tracker for couples. text "spent R$50 at the market" on whatsapp, and it logs automatically. because nobody wants to open a spreadsheet at the supermarket.
+**[educa-site](https://github.com/shishiv/educa-site)** — the marketing side of EDUCA: landing, waitlist, blog. the app itself lives in shishiv/EDUCA.
 
-**[tijolar](https://github.com/shishiv/tijolar)** — complete website + admin panel for a construction materials store. real client, real production. next.js + tailwind.
-
-**[coxixo](https://github.com/shishiv/coxixo)** — voice-to-clipboard for windows. hold a key, speak, release, paste. c# and azure whisper. i was tired of typing long messages.
+**[gastei](https://github.com/shishiv/gastei)** — expense tracking for couples, over whatsapp. text "spent R$50 at the market" and it logs it. because nobody wants to open a spreadsheet at the supermarket.
 
 **[inclusao digital uemg](https://github.com/shishiv/inclusao-digital-uemg)** — accessible web portal teaching adults 60+ how to use tech. university research project that actually got used.
+
+**[tec-wa-gateway](https://github.com/shishiv/tec-wa-gateway)** — our own whatsmeow gateway: persistent connection, live whatsapp events. replaces stale polling.
 
 ---
 
@@ -39,7 +39,7 @@ i'm fluent in typescript (both the programming language *and* the spoken one) �
 
 **day to day:** typescript, react, next.js, node.js, nestjs, postgresql, drizzle, tailwindcss
 
-**i also work with:** python, c#/.net, docker, redis, linux, supabase, vercel
+**i also work with:** go, python, c#/.net, docker, redis, linux, supabase, vercel
 
 **exploring now:** ai agent orchestration (claude sdk, multi-model pipelines), whatsapp cloud api, pgvector
 
@@ -69,27 +69,27 @@ i'm looking for remote full-stack dev opportunities. if you're building somethin
 
 e aí, eu sou o myke 👋
 
-sou dev full-stack de minas gerais. construo software que resolve problemas reais pra pequenas e médias empresas — as que a big tech ignora.
+eu construo software e toco a [triangulotec](https://triangulotec.com.br), uma dev shop pequena de minas gerais. a gente automatiza a parte chata do trabalho pra quem usa sobrar tempo pro que importa.
 
-fundei a **[triangulotec](https://triangulotec.com.br)**, um estúdio de dev focado em automatizar o trabalho chato pra que equipes possam focar no que importa. nossa filosofia: tecnologia que ajuda pessoas, não substitui.
+sem título bonito aqui. só coisa construída e rodando.
 
-to mergulhado em automação com ia — chatbots, ferramentas internas e integrações que economizam horas de trabalho repetitivo. a triangulotec ganhou 1º lugar no fator s (sebrae), e to terminando minha graduação em sistemas de informação na uemg.
+hoje isso é automação de whatsapp, ferramentas internas e uns projetos open source que a galera usa de verdade. tô terminando sistemas de informação na uemg.
 
 falo typescript fluente (a linguagem de programação e a falada — além de português e um pouco de espanhol).
 
 ---
 
-#### o que to construindo
+#### o que tô construindo
 
-**[rhbot](https://github.com/shishiv/rhbot)** — assistente de rh via whatsapp pra empresas brasileiras (100-500 funcionários). o colaborador pergunta "quando cai o salário?" ou "quantos dias de férias eu tenho?" e recebe resposta na hora, em vez de esperar 3 dias pelo rh. nestjs, meta cloud api, orquestração de ia.
+**[EDUCA](https://github.com/shishiv/EDUCA)** — gestão escolar open-source pra cidades pequenas do brasil. 100% MIT, cloud grátis = 1 escola, whatsapp byo. piloto com ~900 alunos.
 
-**[gastei](https://github.com/shishiv/gastei)** — controle financeiro pra casais. manda "gastei R$50 no mercado" no whatsapp e registra automaticamente. porque ninguém abre planilha no supermercado.
+**[educa-site](https://github.com/shishiv/educa-site)** — o lado de marketing do EDUCA: landing, waitlist, blog. o app vive em shishiv/EDUCA.
 
-**[tijolar](https://github.com/shishiv/tijolar)** — site institucional completo + painel admin pra loja de materiais de construção. cliente real, produção real. next.js + tailwind.
+**[gastei](https://github.com/shishiv/gastei)** — controle financeiro pra casais, pelo whatsapp. manda "gastei R$50 no mercado" e registra. porque ninguém abre planilha no supermercado.
 
-**[coxixo](https://github.com/shishiv/coxixo)** — transcrição de voz pra clipboard no windows. segura uma tecla, fala, solta, cola. c# e azure whisper. cansei de digitar mensagem longa.
+**[inclusao digital uemg](https://github.com/shishiv/inclusao-digital-uemg)** — portal web acessível ensinando adultos 60+ a usar tecnologia. projeto de pesquisa que saiu do papel e foi usado de verdade.
 
-**[inclusao digital uemg](https://github.com/shishiv/inclusao-digital-uemg)** — portal web acessível ensinando adultos 60+ a usar tecnologia. projeto de pesquisa da universidade que saiu do papel e foi usado de verdade.
+**[tec-wa-gateway](https://github.com/shishiv/tec-wa-gateway)** — gateway whatsmeow próprio: conexão persistente, eventos ao vivo do whatsapp. substitui o polling velho.
 
 ---
 
@@ -97,7 +97,7 @@ falo typescript fluente (a linguagem de programação e a falada — além de po
 
 **no dia a dia:** typescript, react, next.js, node.js, nestjs, postgresql, drizzle, tailwindcss
 
-**também trabalho com:** python, c#/.net, docker, redis, linux, supabase, vercel
+**também trabalho com:** go, python, c#/.net, docker, redis, linux, supabase, vercel
 
 **explorando agora:** orquestração de agentes ia (claude sdk, pipelines multi-modelo), whatsapp cloud api, pgvector
 
@@ -114,7 +114,7 @@ acredito em "slow is fast" — dedicar tempo pra construir direito em vez de sai
 
 ---
 
-to procurando oportunidades remotas como dev full-stack. se você ta construindo algo legal com react, next.js, typescript ou node.js — bora conversar.
+tô procurando oportunidades remotas como dev full-stack. se você tá construindo algo legal com react, next.js, typescript ou node.js — bora conversar.
 
 📧 myke.matos@gmail.com · [linkedin](https://linkedin.com/in/myke-matos) · [triangulotec](https://triangulotec.com.br)
 
