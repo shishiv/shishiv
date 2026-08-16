@@ -1,25 +1,40 @@
 <div align="right">
-  <a href="#portugues">Português</a> · <a href="#english">English</a>
+  <a href="#portugues">português</a> · <a href="#english">english</a>
 </div>
 
 <a id="portugues"></a>
 
 # oi, sou o myke
 
-Eu volto sempre ao mesmo tipo de problema: trabalho espalhado entre mensagens, planilhas, aprovações, pagamentos, tarefas e repasses. É onde a informação se perde e alguém acaba fazendo a mesma coisa duas vezes.
+eu volto sempre pro mesmo problema: trabalho picado entre mensagem, planilha, aprovação e pagamento. é onde a informação some e alguém refaz o que já estava pronto.
 
-Na [TrianguloTEC](https://triangulotec.com.br/), uma empresa pequena, a gente constrói e opera produtos ainda em andamento. Não tenho uma história de SaaS pronto e bem-sucedido para vender. Tenho trabalho em curso, decisões tomadas e coisas que ainda precisam de uso, ajuste e distribuição.
+eu toco a [triangulotec](https://triangulotec.com.br/), uma empresa pequena. os produtos ainda estão no meio do caminho e eu não tenho um saas pronto pra vender. o que eu tenho é trabalho em andamento e decisão registrada.
 
-Eu cuido do fluxo inteiro: TypeScript e Next.js na interface, Node e PostgreSQL por trás, permissões, webhooks, filas e chat quando o problema pede. Uso IA todos os dias, com revisão. Ela ajuda a pesquisar, implementar e testar. Não decide sozinha o que vai para produção.
+o que eu faço bem é cuidar do fluxo inteiro: typescript e next na frente, node e postgres atrás, com permissão, webhook, fila e chat quando o problema pede. uso ia todo dia, sempre com revisão. não uso flutter em produção, então não vou vender isso.
 
-## o que existe hoje
+## no que eu trabalho
 
-- [EDUCA](https://github.com/shishiv/EDUCA) é software de gestão escolar sob licença MIT para redes municipais e cidades pequenas do Brasil. O caminho disponível hoje é self-hosting. O repositório documenta uma base de piloto municipal somente com dados sintéticos.
-- [infra-examples](https://github.com/shishiv/infra-examples) reúne exemplos de infraestrutura sanitizados, organizados por ferramenta. Eles mostram decisões e limites. Não são receitas prontas para produção.
+### triangulotec
 
-O código precisa mostrar o que existe sem disfarçar o que ainda não existe. Eu bato em paredes, meço, corto caminhos ruins, reconstruo e continuo.
+eu toco a [triangulotec](https://triangulotec.com.br/). a gente faz site, medição, infraestrutura e manutenção da presença digital, do começo ao fim. cliente atual: [scapola](https://scapolacomunica.com).
 
-Mais contexto e fontes públicas: [shishiv.github.io](https://shishiv.github.io/).
+### EDUCA
+
+[EDUCA](https://github.com/shishiv/EDUCA) é gestão escolar sob licença MIT pra redes municipais e cidades pequenas. hoje roda por self-hosting. o repositório traz um demo só com dados sintéticos, sem fingir uma escola real.
+
+### inclusão digital
+
+no [inclusão digital](https://github.com/shishiv/inclusao-digital-uemg), fui bolsista PAEx 2025 e montei o conteúdo pra pessoas de 60+ usarem tecnologia sem medo. o trabalho é coletivo, do programa e do meu orientador na UEMG. tem uma proposta assinada pra levar o programa a mais unidades.
+
+### infra-examples
+
+[infra-examples](https://github.com/shishiv/infra-examples) reúne exemplos de infraestrutura sanitizados, por ferramenta, com callgraph, decisão e gotcha. eles explicam o porquê. não são receita pronta pra produção.
+
+## como eu mostro o trabalho
+
+o código mostra o que existe sem maquiar o que ainda não existe. eu bato em parede, meço, corto o caminho errado, reconstruo e sigo.
+
+o portfólio com a história mais longa está em construção: [shishiv.github.io](https://shishiv.github.io/).
 
 ---
 
@@ -27,17 +42,17 @@ Mais contexto e fontes públicas: [shishiv.github.io](https://shishiv.github.io/
 
 ## hi, i'm myke
 
-I keep returning to the same kind of problem: work scattered across messages, spreadsheets, approvals, payments, tasks, and handoffs. That is where information gets lost and someone ends up doing the same work twice.
+i keep coming back to the same problem: work scattered across messages, spreadsheets, approvals, and payments. that is where information gets lost and someone redoes what was already done.
 
-At [TrianguloTEC](https://triangulotec.com.br/), a small company, we build and operate products that are still in progress. I do not have a finished SaaS success story to sell. I have work in progress, decisions made, and things that still need use, adjustment, and distribution.
+i run [triangulotec](https://triangulotec.com.br/), a small company. the products are still in progress and i do not have a finished saas to sell. what i have is work in progress and decisions on record.
 
-I handle the whole flow: TypeScript and Next.js in the interface, Node and PostgreSQL behind it, with permissions, webhooks, queues, and chat when the problem calls for them. I use AI every day with review. It helps research, implementation, and testing. It does not decide what goes to production on its own.
+what i do well is own the whole flow: typescript and next on the front, node and postgres behind, with permissions, webhooks, queues, and chat when the problem needs them. i use ai every day, always with review. no flutter in production, so i will not sell that.
 
-### what exists today
+what i keep public:
 
-- [EDUCA](https://github.com/shishiv/EDUCA) is MIT-licensed school-management software for Brazilian municipal and small-town networks. Self-hosting is available today. Its repository documents a synthetic-only municipal pilot foundation.
-- [infra-examples](https://github.com/shishiv/infra-examples) contains sanitized infrastructure examples organized by tool. They show decisions and limits. They are not production-ready recipes.
+- [triangulotec](https://triangulotec.com.br/) does sites, measurement, infrastructure, and upkeep for a digital presence, start to finish. current client: [scapola](https://scapolacomunica.com).
+- [EDUCA](https://github.com/shishiv/EDUCA) is MIT-licensed school management for municipal and small-town networks. it runs by self-hosting today, with a synthetic-only demo.
+- at [inclusão digital](https://github.com/shishiv/inclusao-digital-uemg), i was a PAEx 2025 fellow and built the content for people aged 60+. it is collective program work at UEMG, with a signed proposal to reach more units.
+- [infra-examples](https://github.com/shishiv/infra-examples) collects sanitized infrastructure examples with callgraphs, decisions, and gotchas. they are not production recipes.
 
-The code should show what exists without disguising what does not exist yet. I hit walls, measure, cut bad paths, rebuild, and continue.
-
-More context and public sources: [shishiv.github.io](https://shishiv.github.io/).
+the longer story is still being built: [shishiv.github.io](https://shishiv.github.io/).
