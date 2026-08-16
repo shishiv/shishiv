@@ -23,7 +23,7 @@ fluent in typescript (the programming language *and* the spoken one) — plus po
 
 #### what i'm building
 
-**[EDUCA](https://github.com/shishiv/EDUCA)** — open-source school management for brazilian small towns. 100% MIT, cloud free = 1 school, whatsapp byo. pilot with ~900 students.
+**[EDUCA](https://github.com/shishiv/EDUCA)** — open-source school management for brazilian small towns. 100% MIT, cloud free = 1 school, whatsapp notifications.
 
 **[educa-site](https://github.com/shishiv/educa-site)** — the marketing side of EDUCA: landing, waitlist, blog. the app itself lives in shishiv/EDUCA.
 
