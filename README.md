@@ -1,49 +1,43 @@
-# myke matos
+<div align="right">
+  <a href="#portugues">Português</a> · <a href="#english">English</a>
+</div>
 
-Este GitHub é uma porta curta para o meu trabalho. Eu construo produtos e cuido do caminho entre problema, software e operação.
+<a id="portugues"></a>
 
-Na [TrianguloTEC](https://triangulotec.com.br/), uma ideia só conta quando alguém consegue conferir o que foi entregue. Por isso eu deixo decisão, limite e prova ao lado do trabalho.
+# oi, sou o myke
 
-## trabalho público
+Eu volto sempre ao mesmo tipo de problema: trabalho espalhado entre mensagens, planilhas, aprovações, pagamentos, tarefas e repasses. É onde a informação se perde e alguém acaba fazendo a mesma coisa duas vezes.
 
-### [triânguloTEC](https://triangulotec.com.br/)
+Na [TrianguloTEC](https://triangulotec.com.br/), uma empresa pequena, a gente constrói e opera produtos ainda em andamento. Não tenho uma história de SaaS pronto e bem-sucedido para vender. Tenho trabalho em curso, decisões tomadas e coisas que ainda precisam de uso, ajuste e distribuição.
 
-Eu toco a TrianguloTEC. A oferta pública cobre site, medição, infraestrutura e cuidado contínuo da presença digital.
+Eu cuido do fluxo inteiro: TypeScript e Next.js na interface, Node e PostgreSQL por trás, permissões, webhooks, filas e chat quando o problema pede. Uso IA todos os dias, com revisão. Ela ajuda a pesquisar, implementar e testar. Não decide sozinha o que vai para produção.
 
-### [EDUCA](https://github.com/shishiv/EDUCA)
+## o que existe hoje
 
-a ideia surgiu de um projeto de extensão na faculdade e se tornou um software de gestão escolar sob licença MIT para redes municipais e cidades pequenas do Brasil. O caminho disponível hoje é self-hosting. O repositório documenta um demo com dados sinteticos.
+- [EDUCA](https://github.com/shishiv/EDUCA) é software de gestão escolar sob licença MIT para redes municipais e cidades pequenas do Brasil. O caminho disponível hoje é self-hosting. O repositório documenta uma base de piloto municipal somente com dados sintéticos.
+- [infra-examples](https://github.com/shishiv/infra-examples) reúne exemplos de infraestrutura sanitizados, organizados por ferramenta. Eles mostram decisões e limites. Não são receitas prontas para produção.
 
-### [Inclusão Digital UEMG](https://github.com/shishiv/inclusao-digital-uemg)
+O código precisa mostrar o que existe sem disfarçar o que ainda não existe. Eu bato em paredes, meço, corto caminhos ruins, reconstruo e continuo.
 
-esse tambem foi um projeto de extensão que fui bolsista PAEx 2025, criei conteudo para pessoas com 60 anos ou mais usarem tecnologia com mais confiança. É trabalho coletivo de um programa da UEMG e do meu orientador Cicero Marcelo, e também estamos em discussão aberta pra se tornar um programa multi-unidade.
-
-## prova e limite
-
-[infra-examples](https://github.com/shishiv/infra-examples) publica exemplos de infraestrutura sanitizados, por ferramenta, com callgraphs, decisões e gotchas. Eles explicam o raciocínio. Não são receitas prontas, mas agiliza bastante o processo.
-
-O portfólio guarda a história mais longa, os limites e as fontes: [shishiv.github.io](https://shishiv.github.io/).
+Mais contexto e fontes públicas: [shishiv.github.io](https://shishiv.github.io/).
 
 ---
 
 <a id="english"></a>
 
-## myke matos
+## hi, i'm myke
 
-This GitHub is a short gateway to my work. I build products and handle the path between problem, software, and operations.
+I keep returning to the same kind of problem: work scattered across messages, spreadsheets, approvals, payments, tasks, and handoffs. That is where information gets lost and someone ends up doing the same work twice.
 
-At [TrianguloTEC](https://triangulotec.com.br/), an idea only counts when someone can inspect what was delivered. That is why I put the decision, the limit, and the evidence beside the work.
+At [TrianguloTEC](https://triangulotec.com.br/), a small company, we build and operate products that are still in progress. I do not have a finished SaaS success story to sell. I have work in progress, decisions made, and things that still need use, adjustment, and distribution.
 
-### public work
+I handle the whole flow: TypeScript and Next.js in the interface, Node and PostgreSQL behind it, with permissions, webhooks, queues, and chat when the problem calls for them. I use AI every day with review. It helps research, implementation, and testing. It does not decide what goes to production on its own.
 
-**TrianguloTEC.** I run TrianguloTEC. Its public offer covers sites, measurement, infrastructure, and ongoing digital-presence care.
+### what exists today
 
-**[EDUCA](https://github.com/shishiv/EDUCA).** MIT-licensed school-management software for Brazilian municipal and small-town networks. Self-hosting is available today. Its repository documents a synthetic-only municipal pilot foundation.
+- [EDUCA](https://github.com/shishiv/EDUCA) is MIT-licensed school-management software for Brazilian municipal and small-town networks. Self-hosting is available today. Its repository documents a synthetic-only municipal pilot foundation.
+- [infra-examples](https://github.com/shishiv/infra-examples) contains sanitized infrastructure examples organized by tool. They show decisions and limits. They are not production-ready recipes.
 
-**[Digital Inclusion UEMG](https://github.com/shishiv/inclusao-digital-uemg).** Learning material for adults aged 60+. It is collective work from a UEMG program, not an individual result.
+The code should show what exists without disguising what does not exist yet. I hit walls, measure, cut bad paths, rebuild, and continue.
 
-### evidence and limits
-
-[infra-examples](https://github.com/shishiv/infra-examples) contains sanitized infrastructure examples by tool, with callgraphs, decisions, and gotchas. They explain the reasoning. They are not production-ready recipes.
-
-The [portfolio](https://shishiv.github.io/) holds the longer story, limits, and sources.
+More context and public sources: [shishiv.github.io](https://shishiv.github.io/).
