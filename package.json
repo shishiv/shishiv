@@ -1,0 +1,25 @@
+{
+  "name": "shishiv-profile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "oxfmt --write .",
+    "format:check": "oxfmt --check .",
+    "lint": "oxlint --deny-warnings --no-error-on-unmatched-pattern .",
+    "precommit": "lint-staged --concurrent false",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^17.3.0",
+    "oxfmt": "^0.64.0",
+    "oxlint": "^1.79.0"
+  },
+  "lint-staged": {
+    "*.{js,mjs,cjs,jsx,ts,mts,cts,tsx,json,jsonc,json5,css,scss,less,html,htm,vue,yaml,yml,md,mdx,graphql,gql,toml}": "oxfmt --write",
+    "*.{js,mjs,cjs,jsx,ts,mts,cts,tsx}": "oxlint --deny-warnings"
+  },
+  "engines": {
+    "node": ">=22.22.1"
+  }
+}
